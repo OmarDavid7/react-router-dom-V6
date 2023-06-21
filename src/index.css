@@ -1,0 +1,17 @@
+html{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+div ul{
+    list-style: none;
+}
+
+div ul li a{
+    text-decoration: none;
+    color: cornflowerblue;
+   
+}
